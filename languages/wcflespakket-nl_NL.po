@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PostNL CSV export\n"
+"POT-Creation-Date: 2014-05-23 10:33+0100\n"
+"PO-Revision-Date: 2014-05-23 11:40+0100\n"
+"Last-Translator: Ewout Fernhout <chocolade@extrapuur.nl>\n"
+"Language-Team: Ewout Fernhout\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/wcflespakket-nlpostcode-fields.php:151
+#: includes/wcflespakket-nlpostcode-fields.php:152
+#: includes/wcflespakket-nlpostcode-fields.php:320
+#: includes/wcflespakket-nlpostcode-fields.php:346
+msgid "Street name"
+msgstr "Straat"
+
+#: includes/wcflespakket-nlpostcode-fields.php:159
+msgid "Nr."
+msgstr "Nr."
+
+#: includes/wcflespakket-nlpostcode-fields.php:167
+#: includes/wcflespakket-nlpostcode-fields.php:330
+#: includes/wcflespakket-nlpostcode-fields.php:356
+msgid "Suffix"
+msgstr "Toev."
+
+#: includes/wcflespakket-nlpostcode-fields.php:325
+#: includes/wcflespakket-nlpostcode-fields.php:351
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/wcflespakket-nlpostcode-fields.php:465
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:11 includes/wcflespakket-settings.php:12
+#: includes/wcflespakket-writepanel.php:28
+msgid "Flespakket"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:57
+msgid "Flespakket API login-gegevens"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:64
+msgid "Gebruikersnaam"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:78
+msgid "API key"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:86
+msgid ""
+"Uw API key, deze dient u eerst <a href=\"mailto:info@flespakket.nl\">aan te "
+"vragen bij Flespakket</a>"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:93
+msgid "WooCommerce email instellingen"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:100
+msgid "Email track&trace code"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:107
+msgid ""
+"De track&trace code (wanneer beschikbaar) wordt automatisch toegevoegd aan "
+"de orderbevestingsmail naar de klant.<br/><strong>Let op!</strong> Wanneer u "
+"deze optie selecteert, dient u erop te letten dat u geen track&trace mail "
+"vanuit Flespakket verstuurt."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:115
+msgid "Flespakket standaard export instellingen"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:122
+msgid "Labelweergave"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:130
+msgid "Download PDF"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:131
+msgid "Open de PDF in een nieuw venster/tab"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:138
+msgid "Verwerk labels direct"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:145
+msgid ""
+"Wanneer u deze optie ingeschakeld heeft, worden de orders bij het exporteren "
+"naar Flespakket direct verwerkt."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:151
+msgid "Koppel emailadres klant"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:158
+msgid ""
+"Wanneer u het emailadres van de klant koppelt, wordt daar een bericht met de "
+"Track&Trace link naartoe gemaild vanuit Flespakket. In uw <a href=\"http://"
+"www.flespakket.nl/backend/instellingen/tracktrace\">Flespakket instellingen</"
+"a> kunt u deze mail opmaken in uw eigen stijl."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:164
+msgid "Koppel telefoonnummer klant"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:171
+msgid ""
+"Wanneer u het telefoonnummer van de klant koppelt met de zending, kan de "
+"koerier dit gebruiken ten behoeve van de aflevering van het pakket. De "
+"afleverkans voor buitenlandzendingen wordt hiermee aanzienlijk verhoogd."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:190
+msgid "Niet bij buren bezorgen (+ &euro; 0.23)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:202
+msgid "Handtekening voor ontvangst (+ &euro; 0.30)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:209
+msgid ""
+"Hier wordt het pakket allereerst op het huisadres aangeboden. Mocht de "
+"geadresseerde niet thuis zijn, dan wordt het pakket bij de buren afgegeven. "
+"Er moet in beide gevallen voor worden getekend."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:215
+msgid "Niet bij buren bezorgen + Handtekening voor ontvangst (+ &euro; 0.37)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:222
+msgid ""
+"Hiermee kiest u voor zekerheid. Het pakket wordt alleen bij de geadresseerde "
+"bezorgt die hiervoor tekent. Zo weet u zeker dat het pakket in ontvangst is "
+"genomen door de geadresseerde. Een veilig gevoel."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:241
+msgid "Retour bij geen gehoor"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:248
+msgid ""
+"Standaard wordt de zending twee keer aangeboden. Na twee mislukte "
+"afleverpogingen zal het pakket gedurende drie weken beschikbaar zijn op de "
+"dichtstbijzijnde afhaallocatie. Het kan daar door de klant worden opgehaald "
+"met het door de koerier achtergelaten briefje. Indien u wilt dat het pakket "
+"na twee keer te zijn aangeboden direct retour komt en dus NIET op het "
+"postkantoor komt te liggen, vink dan deze optie aan. Let op: Het pakket komt "
+"hierdoor eerder retour, waarvoor wij u ook zullen doorbelasten."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:254
+msgid "Verhoogd aansprakelijk (+ &euro; 1.40 per 500 euro verzekerd)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:261
+msgid ""
+"Er zit standaard geen verzekering op de zendingen. Indien u toch wilt "
+"verzekeren kunt u dit doen voor &euro;&nbsp;1.45 extra per &euro;&nbsp;500 "
+"verzekerd. Wij verzekeren de inkoopwaarde van uw product. Met een maximale "
+"verzekerde waarde van &euro;&nbsp;5.000."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:267
+msgid "Verzekerd bedrag (in euro)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:275
+msgid ""
+"Indien u kiest voor verhoogd aansprakelijk, dan kunt u hier de waarde van de "
+"inhoud van het pakket vermelden, afgerond op hele euros, zonder kommas "
+"punten of valutateken."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:281
+msgid "Optioneel bericht"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:288
+msgid ""
+"Met deze optie kunt u een optioneel bericht aan de zending toevoegen. Deze "
+"kunt u later terug lezen in uw overzicht zendingen. Deze tekst komt niet "
+"terug op het etiket, maar is door de klant wel terug te vinden op de "
+"track&trace pagina van PostNL onder 'Referentie'"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:294
+msgid "Eigen kenmerk"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:301
+msgid ""
+"Met deze optie kunt u een kenmerk aan de zending toevoegen. Deze wordt "
+"linksboven op het label geprint en hierop kan later in het overzicht "
+"zendingen gezocht of geordend worden."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:308
+msgid "Standaard verpakkingsgewicht (gram)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:316
+msgid "Gewicht van uw standaard verpakking, afgerond op hele grammen."
+msgstr ""
+
+#: includes/wcflespakket-settings.php:323
+msgid "Diagnostische opties (alleen inschakelen bij problemen)"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:330
+msgid "Testmodus"
+msgstr ""
+
+#: includes/wcflespakket-settings.php:347
+msgid "Log alle server communicatie"
+msgstr ""
+
+#: woocommerce-flespakket.php:93
+#, php-format
+msgid ""
+"WooCommerce Flespakket export depends on <a href=\"%s\">WooCommerce</a> to "
+"work!"
+msgstr ""
+"WooCommerce Flespakket vereist dat <a href=\"%s\">WooCommerce</a> "
+"geactiveerd is!"
+
+#~ msgid "You can follow your order with the following track&trace number: %s"
+#~ msgstr "U kunt uw bestelling volgen met het volgende track&trace nummer: %s"
+
+#~ msgid "First Name"
+#~ msgstr "Voornaam"
+
+#~ msgid "Last Name"
+#~ msgstr "Achternaam"
+
+#~ msgid "Company Name"
+#~ msgstr "Bedrijfsnaam"
+
+#~ msgid "Company (optional)"
+#~ msgstr "Bedrijfsnaam (optioneel)"
+
+#~ msgid "Postcode/Zip"
+#~ msgstr "Postcode"
+
+#~ msgid "Town/City"
+#~ msgstr "Stad"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Phone"
+#~ msgstr "Telefoon"
